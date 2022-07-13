@@ -1,10 +1,8 @@
 # NPS Discover Dashboard
-A fully functional dashboard pulling data from the National Park Service (NPS) providing insight into visitation and economic trends over the past 20 years.
+A fully functional dashboard pulling data from the National Park Service (NPS) providing insights into visitation and economic trends of national park resources over past 20 years.
 
 # Description
-This project was developed based on my passion for parks and outdoor recreation. 
-
-Upon stumbling into the vast amount of data the NPS has collected over the years I saw an opportunity to further develop my skills and understanding by appling a variety of data engineering tools and resources to see what I could do with the data.
+This project was developed based on my passion for parks and outdoor recreation. Upon stumbling into the vast amount of data the NPS has collected over the years I saw an opportunity to further develop my skills and understanding by appling a variety of data engineering tools and resources to see what I could do with the data.
 
 As this is is an exhibition, the project was intentionally made to be overly complex by incorporating a variety of tools and expertise that may not necessarily be required (cloud storage, novypro publishing, etc.)
 
@@ -12,7 +10,7 @@ As this is is an exhibition, the project was intentionally made to be overly com
 # End Product
 ![image](https://user-images.githubusercontent.com/109249712/178850346-cecc899d-e7e5-4357-94d8-5305ff4d6295.jpeg)
 
-The final product is an interactive BI report that collects, cleans, and visualizes 20 years of national park data to help understand the economic impact of resources managed by the National Park Service. 
+The final product is an interactive BI report that visualizes 20 years of national park data to help understand the economic impact of resources managed by the National Park Service. 
 
 Key features of the dashboard:
 - A UX designed to deliver key KPI's and visuals with a premium product experience
