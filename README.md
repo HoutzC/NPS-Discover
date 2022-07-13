@@ -13,7 +13,7 @@ Key features of the dashboard:
 - Dynamic badges, icons, and images based on user selected filters to quickly convey key information
 - Dynamic web links to relevent resources based on user filter selections
 - Dynamic smart text to quickly summarize data for easy digestion and messaging based on filters
-- Toggle buttons to increase report functionality without adding congestion
+- Toggle buttons to increase report functionality and alleviate congestion
 - Help menu for simple new user support
 - Excel data export (implemented but not active to lower project costs in publish to web)
 
