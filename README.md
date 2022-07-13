@@ -4,7 +4,7 @@ A fully functional dashboard pulling data from the National Park Service (NPS) p
 # Description
 This project was developed based on my passion for parks and outdoor recreation. Upon stumbling into the vast amount of data the NPS has collected over the years I saw an opportunity to further develop my skills and understanding by appling a variety of data engineering tools and resources to see what I could do with the data.
 
-As this is is an exhibition, the project was intentionally made to be overly complex by incorporating a variety of tools and expertise that may not necessarily be required (cloud storage, novypro publishing, etc.)
+As this is is an exhibition, the project was intentionally designed to be overly complex by incorporating a variety of tools and expertise that may not necessarily be required (cloud storage, novypro publishing, etc.)
 
 # Architecture
 # End Product
