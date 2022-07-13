@@ -1,8 +1,10 @@
 # NPS Discover Dashboard
+A fully functional dashboard pulling data from the National Park Service (NPS) providing insight into visitation and economic trends over the past 20 years.
+
 # Description
 This project was developed based on my passion for parks and outdoor recreation. 
 
-Upon stumbling into the vast amount of data the NPS has collected over the years I saw a good opportunity to further develop my data engineering skills and understanding by appling a variety of tools and resources to see what I could do with the data.
+Upon stumbling into the vast amount of data the NPS has collected over the years I saw an opportunity to further develop my skills and understanding by appling a variety of data engineering tools and resources to see what I could do with the data.
 
 As this is is an exhibition, the project was intentionally made to be overly complex by incorporating a variety of tools and expertise that may not necessarily be required (cloud storage, novypro publishing, etc.)
 
