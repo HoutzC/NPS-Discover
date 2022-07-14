@@ -9,6 +9,12 @@ As this is is an exhibition, the project was intentionally designed to be overly
 # Architecture
 ![image](https://user-images.githubusercontent.com/109249712/178897089-e7f75dad-353f-4a2a-a109-8f4c5ffdf2a6.jpeg)
 
+1) Data is compiled
+2) Data is uploaded into an S3 bucket for object storage
+3) Redshift database is established and deployed
+4) Redshift is connected to Powerbi
+5) Finalized Powerbi report is published
+
 # End Product
 ![image](https://user-images.githubusercontent.com/109249712/178850346-cecc899d-e7e5-4357-94d8-5305ff4d6295.jpeg)
 
