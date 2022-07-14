@@ -4,7 +4,7 @@
 A fully functional powerbi report that collects data from the National Park Service (NPS) providing insights into visitation and economic trends of national park resources over the past 20 years.
 
 # Description
-This project was developed based on my passion for parks and outdoor recreation. Once I stumbled across the large amount of public data the NPS has collected over the years I saw an opportunity to further develop my skills and understanding of data engineering by applying a variety of tools and resources to see what I could do with the data.
+This project was developed based on my passion for parks and outdoor recreation. Once I stumbled across the large amount of public data the NPS had collected over the years I saw an opportunity to further develop my skills and understanding of data engineering by applying a variety of tools and resources to see what I could do with the data.
 
 As this is is an exhibition, the project was intentionally designed to be overly complex by incorporating a variety of tools and expertise that may not necessarily be required (cloud storage, novypro publishing, etc.)
 
