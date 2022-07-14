@@ -19,7 +19,10 @@ As this is is an exhibition, the project was intentionally designed to be overly
 
 # End Product
 ![image](https://user-images.githubusercontent.com/109249712/179037032-78a2b454-dbf0-4f42-9b57-e196798b297e.jpeg)
-  ![](https://github.com/HoutzC/NPS-Discover/blob/main/ezgif.com-gif-maker.gif)
+
+<p align="center">
+  <img src="https://github.com/HoutzC/NPS-Discover/blob/main/ezgif.com-gif-maker.gif">
+</p>
 
 The final product is an interactive BI report that visualizes 20 years of national park data to help understand the economic impact of resources managed by the National Park Service. 
 
