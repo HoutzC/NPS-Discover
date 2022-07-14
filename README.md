@@ -1,5 +1,5 @@
-# NPS Discover Dashboard
-![image](https://user-images.githubusercontent.com/109249712/178908416-06a74339-6bc5-4e6d-9e4a-8756254b42ce.jpeg)
+# NPS Discover
+![image](https://user-images.githubusercontent.com/109249712/179036919-5ae84c0e-83c0-4e63-a770-538dafec35c1.jpeg)
 
 A fully functional powerbi report that collects data from the National Park Service (NPS) providing insights into visitation and economic trends of national park resources over the past 20 years.
 
@@ -9,7 +9,7 @@ This project was developed based on my passion for parks and outdoor recreation.
 As this is is an exhibition, the project was intentionally designed to be overly complex by incorporating a variety of tools and expertise that may not necessarily be required (cloud storage, novypro publishing, etc.)
 
 # Architecture
-![image](https://user-images.githubusercontent.com/109249712/178908872-62bb99b3-0245-4ace-8668-cff685d8619f.jpeg)
+<img width="989" alt="image" src="https://user-images.githubusercontent.com/109249712/179039638-e412d81b-7afe-4f8e-a192-fb0bb1bc7ac3.png">
 
 1) Data is compiled
 2) Data is uploaded into an S3 bucket for object storage
@@ -18,7 +18,7 @@ As this is is an exhibition, the project was intentionally designed to be overly
 5) Finalized Powerbi report is published
 
 # End Product
-![image](https://user-images.githubusercontent.com/109249712/178909829-6394e133-cc81-43fc-a408-f77f13013f32.jpeg)
+![image](https://user-images.githubusercontent.com/109249712/179037032-78a2b454-dbf0-4f42-9b57-e196798b297e.jpeg)
 
 The final product is an interactive BI report that visualizes 20 years of national park data to help understand the economic impact of resources managed by the National Park Service. 
 
