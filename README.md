@@ -35,3 +35,6 @@ Key features of the dashboard:
 
 Interact with the final product [here](https://www.novypro.com/project/nps-discover)!
 > Note: Final Report is sourcing data from a static CSV file as the database was terminated upon project completion to minimize costs.
+
+# Lessons Learned and Suggested Improvements
+- Implement a data/report refresh notification system using Amazon SNS
