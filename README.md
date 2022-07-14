@@ -1,5 +1,5 @@
 # NPS Discover
-![image](https://user-images.githubusercontent.com/109249712/179036919-5ae84c0e-83c0-4e63-a770-538dafec35c1.jpeg)
+![image](https://user-images.githubusercontent.com/109249712/179049823-0ab72b6d-efc4-4e88-bdec-3ee159c12e11.jpeg)
 
 A fully functional powerbi report that collects data from the National Park Service (NPS) providing insights into visitation and economic trends of national park resources over the past 20 years.
 
