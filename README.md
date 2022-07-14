@@ -25,5 +25,5 @@ Key features of the dashboard:
 - Help menu for simple new user support
 - Excel data export (implemented but not active/available in the publish to web environment to lower project costs)
 
-View the final product [here](https://www.novypro.com/project/nps-discover)!
+Interact with the final product [here](https://www.novypro.com/project/nps-discover)!
 > Note: Final Report is sourcing data from a static CSV file as the database was terminated upon project completion to minimize costs.
