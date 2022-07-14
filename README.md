@@ -16,7 +16,7 @@ As this is is an exhibition, the project was intentionally designed to be overly
 5) Finalized Powerbi report is published
 
 # End Product
-![image](https://user-images.githubusercontent.com/109249712/178850346-cecc899d-e7e5-4357-94d8-5305ff4d6295.jpeg)
+![image](https://user-images.githubusercontent.com/109249712/178899250-7296bf11-df86-475c-8852-ab02b5411863.jpeg)
 
 The final product is an interactive BI report that visualizes 20 years of national park data to help understand the economic impact of resources managed by the National Park Service. 
 
