@@ -24,7 +24,7 @@ As this is is an exhibition, the project was intentionally designed to be overly
   <img src="https://github.com/HoutzC/NPS-Discover/blob/main/ezgif.com-gif-maker.gif">
 </p>
 
-The final product is an interactive BI report that visualizes 20 years of national park data to help understand the economic impact of resources managed by the National Park Service. 
+>The final product is an interactive BI report that visualizes 20 years of national park data to help understand the economic impact of resources managed by the National Park Service. 
 
 Key features of the dashboard:
 - A UX designed to deliver key KPI's and visuals with a premium product experience
@@ -40,5 +40,7 @@ Key features of the dashboard:
 Interact with the final product [here](https://www.novypro.com/project/nps-discover)!
 > Note: Final Report is sourcing data from a static CSV file as the database was terminated upon project completion to minimize costs.
 
-# Lessons Learned and Suggested Improvements
+# Suggested Improvements
 - Implement a data/report refresh notification system using Amazon SNS
+- Improve data prediciton capabilities using machine learning functions within AWS such as Amazon Forecast
+- Use Amazon Textract to improve data quality and range by extracting text from documents 
