@@ -1,5 +1,7 @@
 # NPS Discover
-![image](https://user-images.githubusercontent.com/109249712/179049823-0ab72b6d-efc4-4e88-bdec-3ee159c12e11.jpeg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/109249712/179049823-0ab72b6d-efc4-4e88-bdec-3ee159c12e11.jpeg">
+ </p>
 
 A fully functional powerbi report that collects data from the National Park Service (NPS) providing insights into visitation and economic trends of national park resources over the past 20 years.
 
@@ -9,7 +11,9 @@ This project was developed based on my passion for parks and outdoor recreation.
 As this is is an exhibition, the project was intentionally designed to be overly complex by incorporating a variety of tools and expertise that may not necessarily be required (cloud storage, novypro publishing, etc.)
 
 # Architecture
-<img width="989" alt="image" src="https://user-images.githubusercontent.com/109249712/179039638-e412d81b-7afe-4f8e-a192-fb0bb1bc7ac3.png">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/109249712/179039638-e412d81b-7afe-4f8e-a192-fb0bb1bc7ac3.png">
+ </p>
 
 1) Data is compiled
 2) Data is uploaded into an S3 bucket for object storage
@@ -18,7 +22,9 @@ As this is is an exhibition, the project was intentionally designed to be overly
 5) Finalized Powerbi report is published
 
 # End Product
-![image](https://user-images.githubusercontent.com/109249712/179037032-78a2b454-dbf0-4f42-9b57-e196798b297e.jpeg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/109249712/179037032-78a2b454-dbf0-4f42-9b57-e196798b297e.jpeg">
+</p>
 
 <p align="center">
   <img src="https://github.com/HoutzC/NPS-Discover/blob/main/ezgif.com-gif-maker.gif">
@@ -40,7 +46,7 @@ Key features of the dashboard:
 Interact with the final product [here](https://www.novypro.com/project/nps-discover)!
 > Note: Final Report is sourcing data from a static CSV file as the database was terminated upon project completion to minimize costs.
 
-# Suggested Improvements
+# Improvement Suggestions
 - Implement a data/report refresh notification system using Amazon SNS
 - Improve data prediciton capabilities using machine learning functions within AWS such as Amazon Forecast
-- Use Amazon Textract to improve data quality and range by extracting text from documents 
+- Use Amazon Textract to improve data quality and range by extracting text from documents
