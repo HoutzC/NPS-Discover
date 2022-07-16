@@ -50,3 +50,4 @@ Interact with the final product [here](https://www.novypro.com/project/nps-disco
 - Implement a data/report refresh notification system using Amazon SNS
 - Improve data prediciton capabilities using machine learning functions within AWS such as Amazon Forecast
 - Use Amazon Textract to improve data quality and range by extracting text from documents
+- Push all ETL to AWS to increase Powerbi efficiency at scale.
